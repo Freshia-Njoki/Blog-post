@@ -1,0 +1,17 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+ .main-content{
+    height: 75vh;
+    width: 70%;
+    background-color: blueviolet;
+
+
+ }
+
+ .main-aside{
+    height: 70vh;
+    width: 30%;
+ }
