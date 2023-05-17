@@ -1,7 +1,13 @@
 import './nav.css'
+
 function Nav() {
   return (
-    <div className="nav-bar">Exploring the Dynamics of Making Phone Calls: An Insightful Discussion</div>
+    <>
+    <img src="./pic/240_F_595821690_wL1NpUUCSyVP3bNVdtpNdtGmMNSBugfh.jpg" alt="" />
+    <div className="nav-bar">
+      Exploring the Dynamics of Making Phone Calls: An Insightful Discussion
+      </div>
+      </>
   )
 }
 

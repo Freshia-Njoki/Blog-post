@@ -1,17 +1,40 @@
 .main{
     display: flex;
     flex-direction: row;
-    gap: 40px;
+    gap: 10em;
+    
+    margin: 0px;
+    justify-content: space-around;
+    align-items: center;
+    height: 100%;
 }
  .main-content{
-    height: 75vh;
+    height: 100vh;
     width: 70%;
-    background-color: blueviolet;
-
-
+    justify-content: space-around;
+    align-items: center;
+   
  }
 
  .main-aside{
-    height: 70vh;
+    height: 60vh;
     width: 30%;
+    align-items: center;
+    justify-content: space-around;
+ }
+
+.article{
+   box-shadow:4px 3px #888888;
+   border-radius: 2px;
+   
+}
+ .article:hover{
+   background-color: whitesmoke;
+   opacity: 1;
+   transition: transform 0.01s;
+   border: 1px solid grey;
+   border-radius: 8px;
+
+  
+  
  }

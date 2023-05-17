@@ -1,10 +1,10 @@
-*{
-    background-color: aqua;
-}
-
 .nav-bar{
     align-items: center;
-    font-size: 20px;
+    justify-content: space;
+    font-size: 22px;
     font-weight: bold;
+    background-color: blueviolet;
+    width: 100%;
     padding: 10px;
+    
 }

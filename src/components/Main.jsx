@@ -40,11 +40,13 @@ function Main() {
       </div>
 
       <div className="main-aside">
-        <h4>Highlights</h4>
-        <h4>Website title</h4>
-        <h4>Article title</h4>
-        <h4>Main body</h4>
-        <h4>Footer</h4>
+        <h2><ul>Highlights</ul></h2>
+        <h3>Let us talk about what happens when you make call</h3>
+        <h4>Call organization</h4>
+        <h4>Paging</h4>
+        <h4>call acceptance</h4>
+        <h4>Ongoing call</h4>
+        <h4>Handoff</h4>
         </div>
     </div>
   );
